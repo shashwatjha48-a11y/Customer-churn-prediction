@@ -535,13 +535,15 @@ if predict_button:
 st.markdown(
     """
     <div class="footer">
-        Netflix Customer Churn Prediction
-        &nbsp;•&nbsp;
-        Random Forest
-        &nbsp;•&nbsp;
-        Machine Learning
-        &nbsp;•&nbsp;
-        Streamlit
+    Netflix Customer Churn Prediction
+    &nbsp;•&nbsp;
+    Random Forest
+    &nbsp;•&nbsp;
+    Machine Learning
+    &nbsp;•&nbsp;
+    Streamlit
+    <br><br>
+    Built by <strong>Shashwat Jha</strong>
     </div>
     """,
     unsafe_allow_html=True
